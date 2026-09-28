@@ -54,7 +54,6 @@ Micro-certificado emitido pela **Faculdade de Tecnologia Rocketseat** em 28/09/2
 
 **Conteúdos:** fundamentos da lógica computacional, binários, lógica booleana, conectivos lógicos, conjunções, disjunções e negações, consequências lógicas, tabela-verdade, equivalências lógicas, sequência de tarefas, algoritmos, descrição narrativa, fluxograma e pseudocódigo.
 
-![Micro-certificado Fundamentos da Lógica de Programação](./certificados/fundamentos-logica-de-programacao.png)
 
 Verificação: [app.rocketseat.com.br/certificates](https://app.rocketseat.com.br/certificates) — código `6fb82047-0af9-4eef-849f-f48b6c48f9b3`
 
