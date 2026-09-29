@@ -78,6 +78,69 @@ Algoritmos do dia a dia escritos em português, com os verbos no infinitivo e us
 9. **Se** o filme não estiver disponível, escolher outro filme ou outra plataforma
 10. Clicar em "Assistir"
 
+## Regar uma planta
+
+1. Tocar a terra do vaso com o dedo
+2. **Se** a terra estiver úmida, não regar e encerrar
+3. Pegar o regador
+4. Encher o regador com água
+5. Despejar a água devagar na terra, em volta da planta, sem molhar as folhas
+6. Parar quando a água começar a sair pelo furo do vaso
+7. **Se** o vaso tiver pratinho, esvaziar a água acumulada depois de alguns minutos
+8. Guardar o regador
+
+## Fazer uma pipoca
+
+1. Pegar uma panela com tampa
+2. Colocar 2 colheres de óleo na panela
+3. Adicionar 3 grãos de milho de pipoca
+4. Ligar o fogo em temperatura média e tampar a panela
+5. Esperar os 3 grãos estourarem
+6. Adicionar meia xícara de milho e tampar novamente
+7. Chacoalhar a panela de vez em quando, sem tirar a tampa
+8. Esperar o intervalo entre os estouros ficar maior que 3 segundos
+9. Desligar o fogo
+10. Despejar a pipoca numa tigela
+11. **Se** quiser, adicionar sal ou manteiga
+
+## Participar de uma reunião online
+
+1. Abrir o convite da reunião no e-mail ou na agenda
+2. Clicar no link da reunião
+3. **Se** o aplicativo não estiver instalado, instalar ou abrir pelo navegador
+4. Digitar o nome
+5. **Se** a reunião pedir senha, digitar a senha do convite
+6. Testar o microfone e a câmera
+7. Clicar em "Entrar"
+8. **Se** cair na sala de espera, aguardar o organizador liberar
+9. Deixar o microfone desligado enquanto não estiver falando
+10. Participar da reunião
+11. Clicar em "Sair" quando a reunião terminar
+
+## Criar uma lista com as tarefas da semana
+
+1. Pegar um caderno ou abrir um aplicativo de notas
+2. Escrever os dias da semana
+3. Anotar todas as tarefas que precisam ser feitas
+4. Definir o dia de cada tarefa
+5. **Se** alguma tarefa tiver prazo, colocar ela antes do prazo
+6. **Se** um dia ficar com tarefas demais, passar algumas para outro dia
+7. Marcar as tarefas mais importantes
+8. Salvar ou guardar a lista em um lugar fácil de ver
+9. **Enquanto** a semana não terminar, riscar cada tarefa concluída
+
+## Assistir a um vídeo do Diego no canal da Rocketseat
+
+1. Ligar o dispositivo e conectar à internet
+2. Abrir o YouTube
+3. Buscar pelo canal da Rocketseat
+4. Abrir o canal
+5. Procurar um vídeo do Diego
+6. **Se** não encontrar, digitar "Diego Rocketseat" na busca do canal
+7. Clicar no vídeo escolhido
+8. Assistir ao vídeo
+9. **Se** gostar, curtir o vídeo e se inscrever no canal 💜
+
 ---
 
 # 2. Fluxograma
