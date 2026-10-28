@@ -1,0 +1,33 @@
+# Criando uma história maluca (Mad Libs)
+# A pessoa escolhe palavras e o programa monta uma história com elas.
+
+print('Olá, seja bem-vindo(a) ao jogo de Mad Libs! Aqui você vai criar uma história maluca e divertida e aproveitar para treinar o seu vocabulário em português. Para isso, você vai precisar preencher as perguntas e no final você vai ver a história completa. Vamos começar!')
+
+nome = input('Digite o seu nome: ')
+print(f'Olá {nome}, vamos começar a brincadeira!')
+
+substantivo = input('Digite um substantivo: ')
+adjetivo1 = input('Digite um adjetivo: ')
+adjetivo2 = input('Digite outro adjetivo: ')
+verbo_gerundio = input('Digite um verbo no gerúndio: ')
+objeto = input('Digite um objeto: ')
+musica = input('Digite o nome de uma música: ')
+adjetivo3 = input('Digite mais um adjetivo: ')
+verbo_passado = input('Digite um verbo no passado: ')
+lugar = input('Digite um lugar: ')
+interjeicao = input('Digite uma interjeição: ')
+profissao = input('Digite uma profissão: ')
+adjetivo4 = input('Digite mais um adjetivo: ')
+comida = input('Digite uma comida: ')
+verbo_infinitivo = input('Digite um verbo no infinitivo: ')
+numero = input('Digite um número: ')
+
+print('Aqui está a história com as palavras que você escolheu:')
+print()
+print(f'{nome} acordando de manhã')
+print()
+print(f'"Ontem de manhã eu acordei com um {substantivo} {adjetivo1} e {adjetivo2} do meu lado.')
+print(f'Ele estava {verbo_gerundio} em cima do(a) {objeto} enquanto cantava {musica}.')
+print(f'Eu fiquei tão {adjetivo3} que {verbo_passado} até o(a) {lugar} e gritei: \'{interjeicao}!\'.')
+print(f'Lá, um(a) {profissao} muito {adjetivo4} me deu um(a) {comida}')
+print(f'e disse que eu precisava {verbo_infinitivo} {numero} vezes antes do almoço."')
