@@ -13,7 +13,7 @@ A formação tem 7 níveis. Cada nível concluído gera um micro-certificado, e 
 | Nível | Tema | Status |
 |---|---|---|
 | 1 | Fundamentos da Lógica de Programação | ✅ Concluído — quiz com 100% de acerto |
-| 2 | Escrevendo o seu primeiro programa | ⏳ Em andamento |
+| 2 | Escrevendo o seu primeiro programa | ✅ Concluído |
 | 3 | Lendo, depurando e entendendo códigos | 🔒 A fazer |
 | 4 | Boas práticas e legibilidade de código | 🔒 A fazer |
 | 5 | Desafios com raciocínio lógico | 🔒 A fazer |
@@ -31,6 +31,12 @@ A formação tem 7 níveis. Cada nível concluído gera um micro-certificado, e 
 | Conectivos e Tabela-Verdade | Conjunção, disjunção, negação, condicional e bicondicional, com tabelas-verdade e exercícios do dia a dia | [Ver pasta](./conectivos-e-tabela-verdade) |
 | Algoritmos | Descrição narrativa, fluxogramas e 10 exercícios de pseudocódigo | [Ver pasta](./representacao-de-algoritmos) |
 
+### Nível 2 — Escrevendo o seu primeiro programa
+
+| Desafio | O que tem | Link |
+|---|---|---|
+| Primeiros programas | 8 programas em Python: jogos, quiz, oráculo e caça ao tesouro | [Ver pasta](./primeiros-programas) |
+
 ---
 
 ## O que aprendi até aqui
@@ -43,6 +49,7 @@ A formação tem 7 níveis. Cada nível concluído gera um micro-certificado, e 
 - **Fluxograma:** representar algoritmos com símbolos (início/fim, entrada/saída, processo e decisão)
 - **Pseudocódigo:** entrada e saída de dados, variáveis, condicionais (`Se`) e repetição (`Enquanto`)
 - **Teste de mesa:** conferir um algoritmo passo a passo, acompanhando o valor das variáveis
+- **Python:** variáveis, `input`/`print`, f-strings, `if`/`elif`/`else`, `match`/`case`, `for`, `while`, listas, funções e tratamento de erros com `try`/`except`
 
 ---
 
