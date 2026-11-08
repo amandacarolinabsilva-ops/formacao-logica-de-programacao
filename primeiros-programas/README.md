@@ -1,6 +1,6 @@
 # Primeiros Programas
 
-Desafio prático do **Nível 2 — Escrevendo o seu primeiro programa** da formação de Lógica de Programação da Rocketseat.
+Desafio prático do nível 2 (Escrevendo o seu primeiro programa) da formação de Lógica de Programação da Rocketseat.
 
 Oito programas em Python para praticar entrada e saída de dados, variáveis, condicionais, laços de repetição, listas e funções.
 
