@@ -4,9 +4,9 @@ Desafios práticos da formação de **Lógica de Programação** da Rocketseat.
 
 Um algoritmo pode ser representado de três formas. Aqui pratiquei cada uma delas:
 
-1. [Descrição narrativa](#1-descrição-narrativa) — os passos escritos em linguagem natural
-2. [Fluxograma](#2-fluxograma) — os passos desenhados com símbolos
-3. [Pseudocódigo](#3-pseudocódigo) — os passos escritos de um jeito próximo ao código
+1. [Descrição narrativa](#1-descrição-narrativa): os passos escritos em linguagem natural
+2. [Fluxograma](#2-fluxograma): os passos desenhados com símbolos
+3. [Pseudocódigo](#3-pseudocódigo): os passos escritos de um jeito próximo ao código
 
 ---
 
@@ -155,7 +155,7 @@ Algoritmos do dia a dia escritos em português, com os verbos no infinitivo e us
 | Losango | Decisão | Pergunta com sim ou não |
 | Seta | Fluxo | Ordem dos passos |
 
-## Exercício 1 — Calcular o dobro de um número
+## Exercício 1: Calcular o dobro de um número
 
 ```mermaid
 flowchart TD
@@ -165,7 +165,7 @@ flowchart TD
     D --> E([Fim])
 ```
 
-## Exercício 2 — Verificar se o número é menor que 10
+## Exercício 2: Verificar se o número é menor que 10
 
 ```mermaid
 flowchart TD
@@ -177,7 +177,7 @@ flowchart TD
     E --> F
 ```
 
-## Exercício 3 — Contar até 5
+## Exercício 3: Contar até 5
 
 ```mermaid
 flowchart TD
