@@ -24,7 +24,7 @@ Indentação, organização visual, nomes claros e os primeiros passos em refato
 Problemas clássicos para treinar a forma de pensar, como a Torre de Hanói e o Sapo na Lagoa, passando por recursividade e por como analisar decisões e possibilidades.
 
 **6. Estrutura de dados**
-Tipos de dados e quando usar cada estrutura: tuplas, listas, dicionários, conjuntos, pilhas, filas e listas encadeadas.
+Dividido em duas partes. Na introdução, aprofundei os tipos de dados e trabalhei com listas, tuplas, dicionários e conjuntos, incluindo manipulação mais avançada dessas estruturas. Na parte avançada vieram pilhas, filas, listas encadeadas, heaps e hashes.
 
 **7. Certificado final**
 Emitido em 05/11/2026.
@@ -36,7 +36,7 @@ Emitido em 05/11/2026.
 - Python básico: `input` e `print`, f-strings, `if`/`elif`/`else`, `match`/`case`, `for`, `while`, listas, funções e `try`/`except`
 - Ler e depurar código em vez de reescrever tudo quando algo dá errado
 - Escrever pensando em quem vai ler depois, inclusive eu mesma
-- Escolher a estrutura de dados pelo problema: lista quando a ordem importa, dicionário para buscar por chave, conjunto para evitar repetição, pilha e fila conforme a ordem de saída
+- Escolher a estrutura de dados pelo problema, das mais simples, como listas e dicionários, até pilhas, filas, heaps e hashes
 
 ## Certificados
 
