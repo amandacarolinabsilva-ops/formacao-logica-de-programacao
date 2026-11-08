@@ -40,6 +40,12 @@ Emitido em 05/11/2026.
 
 ## Certificados
 
+Certificado final da formação, emitido pela Faculdade de Tecnologia Rocketseat em 05/11/2026:
+
+![Certificado Lógica de Programação](./certificados/certificado-logica-de-programacao.png)
+
+Para verificar: [app.rocketseat.com.br/certificates](https://app.rocketseat.com.br/certificates), código `4fafc000-9baa-479f-b786-fb382d46321f`
+
 Micro-certificado do nível 1, Fundamentos da Lógica de Programação, emitido pela Faculdade de Tecnologia Rocketseat em 28/09/2026:
 
 ![Micro-certificado Fundamentos da Lógica de Programação](./certificados/fundamentos-logica-de-programacao.png)
