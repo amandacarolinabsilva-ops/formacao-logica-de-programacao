@@ -2,7 +2,7 @@
 
 Desafio prático de **Lógica de Programação** da Rocketseat.
 
-Neste repositório resolvo exercícios de lógica proposicional: transformar frases em fórmulas com conectivos e montar a tabela-verdade de cada uma.
+Aqui resolvo exercícios de lógica proposicional: transformar frases em fórmulas com conectivos e montar a tabela-verdade de cada uma.
 
 ---
 
@@ -28,7 +28,7 @@ Neste repositório resolvo exercícios de lógica proposicional: transformar fra
 
 ---
 
-## Exercício 1 — Conjunção (E)
+## Exercício 1: Conjunção (E)
 
 > Eu estudei para a prova e fiz todos os exercícios.
 
@@ -46,7 +46,7 @@ Neste repositório resolvo exercícios de lógica proposicional: transformar fra
 
 ---
 
-## Exercício 2 — Disjunção (OU)
+## Exercício 2: Disjunção (OU)
 
 > Eu vou ao cinema ou fico em casa assistindo séries.
 
@@ -64,7 +64,7 @@ Neste repositório resolvo exercícios de lógica proposicional: transformar fra
 
 ---
 
-## Exercício 3 — Condicional (SE... ENTÃO)
+## Exercício 3: Condicional (SE... ENTÃO)
 
 > Se eu acordar cedo, então conseguirei pegar o ônibus.
 
@@ -82,7 +82,7 @@ Neste repositório resolvo exercícios de lógica proposicional: transformar fra
 
 ---
 
-## Exercício 4 — Condicional com conjunção
+## Exercício 4: Condicional com conjunção
 
 > Se eu estudar muito, então passarei na prova e ganharei um presente.
 
@@ -105,7 +105,7 @@ Neste repositório resolvo exercícios de lógica proposicional: transformar fra
 
 ---
 
-## Exercício 5 — Disjunção (OU)
+## Exercício 5: Disjunção (OU)
 
 > Eu vou jogar videogame ou vou estudar lógica de programação.
 
@@ -123,7 +123,7 @@ Neste repositório resolvo exercícios de lógica proposicional: transformar fra
 
 ---
 
-## Exercício 6 — Conjunção (E)
+## Exercício 6: Conjunção (E)
 
 > Eu comi pizza e tomei refrigerante.
 
@@ -141,7 +141,7 @@ Neste repositório resolvo exercícios de lógica proposicional: transformar fra
 
 ---
 
-## Exercício 7 — Condicional (SE... ENTÃO)
+## Exercício 7: Condicional (SE... ENTÃO)
 
 > Se eu tiver dinheiro, então viajarei nas férias.
 
@@ -159,7 +159,7 @@ Neste repositório resolvo exercícios de lógica proposicional: transformar fra
 
 ---
 
-## Exercício 8 — Bicondicional (SE E SOMENTE SE)
+## Exercício 8: Bicondicional (SE E SOMENTE SE)
 
 > Eu lerei um livro se e somente se terminar meu trabalho.
 
@@ -177,7 +177,7 @@ Neste repositório resolvo exercícios de lógica proposicional: transformar fra
 
 ---
 
-## Exercício 9 — Condicional com disjunção
+## Exercício 9: Condicional com disjunção
 
 > Se estiver sol, então irei à praia ou ao parque.
 
@@ -200,7 +200,7 @@ Neste repositório resolvo exercícios de lógica proposicional: transformar fra
 
 ---
 
-## Exercício 10 — Bicondicional (SE E SOMENTE SE)
+## Exercício 10: Bicondicional (SE E SOMENTE SE)
 
 > Eu farei um bolo se e somente se comprar os ingredientes.
 
