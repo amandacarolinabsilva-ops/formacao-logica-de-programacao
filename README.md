@@ -1,73 +1,51 @@
 # Formação Lógica de Programação
 
-Estudos e práticas da formação de **Lógica de Programação** da [Rocketseat](https://www.rocketseat.com.br), organizados por módulo.
+Exercícios e anotações da formação de Lógica de Programação da [Rocketseat](https://www.rocketseat.com.br) (30 horas, 7 níveis), concluída em novembro de 2026.
 
-Este repositório reúne os exercícios que resolvi durante a formação, com as soluções revisadas e os principais aprendizados de cada etapa.
+Os níveis 1 e 2 tinham desafios práticos, e as minhas soluções estão nas pastas abaixo. Do nível 3 ao 6 a formação foi só de aulas e avaliações, então aqui registro o que estudei em cada um.
 
----
+## Níveis
 
-## Progresso da formação
+**1. Fundamentos da Lógica de Programação**
+Lógica booleana, conectivos e tabela-verdade, e as formas de representar um algoritmo: descrição narrativa, fluxograma e pseudocódigo.
+Exercícios: [conectivos e tabela-verdade](./conectivos-e-tabela-verdade) e [representação de algoritmos](./representacao-de-algoritmos).
 
-A formação tem 7 níveis. Cada nível concluído gera um micro-certificado, e o último nível libera o certificado final.
+**2. Escrevendo o primeiro programa**
+Preparar o ambiente e escrever os primeiros programas em Python, com variáveis, condicionais, laços e funções.
+Exercícios: [primeiros programas](./primeiros-programas), oito programas pequenos, de jogo de adivinhação a caça ao tesouro.
 
-| Nível | Tema | Status |
-|---|---|---|
-| 1 | Fundamentos da Lógica de Programação | ✅ Concluído — quiz com 100% de acerto |
-| 2 | Escrevendo o seu primeiro programa | ✅ Concluído |
-| 3 | Lendo, depurando e entendendo códigos | 🔒 A fazer |
-| 4 | Boas práticas e legibilidade de código | 🔒 A fazer |
-| 5 | Desafios com raciocínio lógico | 🔒 A fazer |
-| 6 | Estrutura de dados | 🔒 A fazer |
-| 7 | Certificado final em Lógica de Programação | 🔒 A fazer |
+**3. Lendo, depurando e entendendo código**
+Como ler um código que outra pessoa escreveu, acompanhar o que acontece em cada linha durante a execução e usar as ferramentas de depuração para achar e corrigir erros.
 
----
+**4. Boas práticas e legibilidade**
+Indentação, organização visual, nomes claros e os primeiros passos em refatoração: melhorar um código que já funciona para que fique mais fácil de entender e de manter.
 
-## Conteúdo
+**5. Desafios de raciocínio lógico**
+Problemas clássicos para treinar a forma de pensar, como a Torre de Hanói e o Sapo na Lagoa, passando por recursividade e por como analisar decisões e possibilidades.
 
-### Nível 1 — Fundamentos da Lógica de Programação
+**6. Estrutura de dados**
+Tipos de dados e quando usar cada estrutura: tuplas, listas, dicionários, conjuntos, pilhas, filas e listas encadeadas.
 
-| Desafio | O que tem | Link |
-|---|---|---|
-| Conectivos e Tabela-Verdade | Conjunção, disjunção, negação, condicional e bicondicional, com tabelas-verdade e exercícios do dia a dia | [Ver pasta](./conectivos-e-tabela-verdade) |
-| Algoritmos | Descrição narrativa, fluxogramas e 10 exercícios de pseudocódigo | [Ver pasta](./representacao-de-algoritmos) |
+**7. Certificado final**
+Emitido em 05/11/2026.
 
-### Nível 2 — Escrevendo o seu primeiro programa
+## O que ficou
 
-| Desafio | O que tem | Link |
-|---|---|---|
-| Primeiros programas | 8 programas em Python: jogos, quiz, oráculo e caça ao tesouro | [Ver pasta](./primeiros-programas) |
-
----
-
-## O que aprendi até aqui
-
-- **Lógica booleana:** proposições simples e compostas, valores verdadeiro e falso
-- **Conectivos lógicos:** E (`^`), OU (`v`), NÃO (`~`), SE... ENTÃO (`→`) e SE E SOMENTE SE (`↔`)
-- **Tabela-verdade:** montar e resolver tabelas com 2, 3 e 5 proposições
-- **Algoritmos:** sequência lógica de passos para resolver um problema
-- **Descrição narrativa:** escrever algoritmos em linguagem natural
-- **Fluxograma:** representar algoritmos com símbolos (início/fim, entrada/saída, processo e decisão)
-- **Pseudocódigo:** entrada e saída de dados, variáveis, condicionais (`Se`) e repetição (`Enquanto`)
-- **Teste de mesa:** conferir um algoritmo passo a passo, acompanhando o valor das variáveis
-- **Python:** variáveis, `input`/`print`, f-strings, `if`/`elif`/`else`, `match`/`case`, `for`, `while`, listas, funções e tratamento de erros com `try`/`except`
-
----
+- Tabela-verdade com 2, 3 e 5 proposições, e como os conectivos viram `and`, `or` e `not` no código
+- Representar um algoritmo de três jeitos e conferir com teste de mesa
+- Python básico: `input` e `print`, f-strings, `if`/`elif`/`else`, `match`/`case`, `for`, `while`, listas, funções e `try`/`except`
+- Ler e depurar código em vez de reescrever tudo quando algo dá errado
+- Escrever pensando em quem vai ler depois, inclusive eu mesma
+- Escolher a estrutura de dados pelo problema: lista quando a ordem importa, dicionário para buscar por chave, conjunto para evitar repetição, pilha e fila conforme a ordem de saída
 
 ## Certificados
 
-### Nível 1 — Fundamentos da Lógica de Programação
-
-Micro-certificado emitido pela **Faculdade de Tecnologia Rocketseat** em 28/09/2026.
-
-**Conteúdos:** fundamentos da lógica computacional, binários, lógica booleana, conectivos lógicos, conjunções, disjunções e negações, consequências lógicas, tabela-verdade, equivalências lógicas, sequência de tarefas, algoritmos, descrição narrativa, fluxograma e pseudocódigo.
+Micro-certificado do nível 1, Fundamentos da Lógica de Programação, emitido pela Faculdade de Tecnologia Rocketseat em 28/09/2026:
 
 ![Micro-certificado Fundamentos da Lógica de Programação](./certificados/fundamentos-logica-de-programacao.png)
 
-Verificação: [app.rocketseat.com.br/certificates](https://app.rocketseat.com.br/certificates) — código `6fb82047-0af9-4eef-849f-f48b6c48f9b3`
+Para verificar: [app.rocketseat.com.br/certificates](https://app.rocketseat.com.br/certificates), código `6fb82047-0af9-4eef-849f-f48b6c48f9b3`
 
 ---
 
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amanda%20Carolina-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-carolina-bs)
-[![GitHub](https://img.shields.io/badge/GitHub-amandacarolinabsilva--ops-181717?style=flat&logo=github&logoColor=white)](https://github.com/amandacarolinabsilva-ops)
+Amanda Carolina · [LinkedIn](https://www.linkedin.com/in/amanda-carolina-bs)
