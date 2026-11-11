@@ -23,5 +23,5 @@ Resultado depois da correção: `Valor total da compra: R$15.63`
 ## Aprendizados
 
 - Ler a mensagem de erro antes de sair mexendo no código: ela diz o tipo do erro e a linha
-- Acompanhar o código linha a linha no PythonTutor e no debugger do VS Code
+- Acompanhar o código linha a linha no PythonTutor e no depurador do VS Code
 - Alguns erros param o programa (sintaxe) e outros só aparecem quando a linha é executada (nome de variável errado)
