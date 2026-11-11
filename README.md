@@ -37,16 +37,29 @@ A formação tem 7 níveis. Cada nível concluído gera um micro-certificado, e 
 |---|---|---|
 | Primeiros programas | 8 programas em Python: jogos, quiz, oráculo e caça ao tesouro | [Ver pasta](./primeiros-programas) |
 
-### Níveis 3 a 6
+### Nível 3 — Lendo, depurando e entendendo códigos
 
-Esses níveis não tinham desafios práticos, só aulas e avaliação. O que estudei em cada um:
+| Desafio | O que tem | Link |
+|---|---|---|
+| Lendo e depurando código | Simulador de compra de supermercado com 4 erros para encontrar e corrigir | [Ver pasta](./lendo-e-depurando-codigo) |
 
-| Nível | Temas |
-|---|---|
-| 3 — Lendo, depurando e entendendo códigos | Leitura de código, como o código é executado, depuração, mensagens de erro e ferramentas para encontrar e corrigir erros |
-| 4 — Boas práticas e legibilidade de código | Legibilidade, organização visual, indentação, escrita clara e primeiros passos em refatoração |
-| 5 — Desafios com raciocínio lógico | Recursividade, decisões e possibilidades, pensamento exploratório, Torre de Hanói e Sapo na Lagoa |
-| 6 — Estrutura de dados | Tipos de dados, listas e tuplas, dicionários e conjuntos, manipulação avançada, pilhas e filas, listas encadeadas, heaps e hashes |
+### Nível 4 — Boas práticas e legibilidade de código
+
+| Desafio | O que tem | Link |
+|---|---|---|
+| Legibilidade e refatoração | Código ilegível refatorado: nomes claros, funções separadas e indentação correta | [Ver pasta](./legibilidade-e-refatoracao) |
+
+### Nível 5 — Desafios com raciocínio lógico
+
+| Desafio | O que tem | Link |
+|---|---|---|
+| Raciocínio lógico | Quantos números de 4 dígitos dá para formar, com e sem repetição de algarismos | [Ver pasta](./raciocinio-logico) |
+
+### Nível 6 — Estrutura de dados
+
+| Desafio | O que tem | Link |
+|---|---|---|
+| Estrutura de dados | Listas, tuplas, dicionários e conjuntos, com um resumo das diferenças | [Ver pasta](./estrutura-de-dados) |
 
 ---
 
@@ -55,12 +68,14 @@ Esses níveis não tinham desafios práticos, só aulas e avaliação. O que est
 - **Lógica booleana:** proposições simples e compostas, valores verdadeiro e falso
 - **Conectivos lógicos:** E (`^`), OU (`v`), NÃO (`~`), SE... ENTÃO (`→`) e SE E SOMENTE SE (`↔`)
 - **Tabela-verdade:** montar e resolver tabelas com 2, 3 e 5 proposições
+- **Equivalências lógicas:** expressões diferentes que dão o mesmo resultado
 - **Algoritmos:** sequência lógica de passos para resolver um problema
 - **Descrição narrativa:** escrever algoritmos em linguagem natural
 - **Fluxograma:** representar algoritmos com símbolos (início/fim, entrada/saída, processo e decisão)
 - **Pseudocódigo:** entrada e saída de dados, variáveis, condicionais (`Se`) e repetição (`Enquanto`)
 - **Teste de mesa:** conferir um algoritmo passo a passo, acompanhando o valor das variáveis
 - **Python:** variáveis, `input`/`print`, f-strings, `if`/`elif`/`else`, `match`/`case`, `for`, `while`, listas, funções e tratamento de erros com `try`/`except`
+- **Projetos das aulas:** jogo de adivinhação e Jogo da Velha
 - **Leitura e depuração de código:** entender como o código "pensa" ao ser executado, ler mensagens de erro e usar ferramentas para encontrar e corrigir falhas
 - **Boas práticas:** legibilidade, indentação, organização visual, escrita clara e refatoração
 - **Raciocínio lógico:** recursividade, análise de decisões e possibilidades, com desafios como a Torre de Hanói e o Sapo na Lagoa
